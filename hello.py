@@ -1,4 +1,4 @@
 firstname = "Jadon"
 lastname = "Bellot"
 age = "25"
-print("hello" + " " + firstname + " " + lastname + " " + age + " " + "years old")
+print("hello" + " " + firstname + " " + lastname + " " + "is" + " " + age + " " + "years old")
